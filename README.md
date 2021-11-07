@@ -6,6 +6,10 @@
 
  <img src="https://github.com/leeseomin/pixelart/blob/main/vistro3.png" width="2000">
 
+###  Mosque-Cathedral of Córdoba
+
+ <img src="https://github.com/leeseomin/pixelart/blob/main/35kcordoba_can.png" width="2000">
+
 
 ###  Author
 
