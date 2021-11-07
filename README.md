@@ -1,4 +1,4 @@
-# pixelart created by Arte Algorithm (Arte : Art Algorithm Series)
+# pixelart created by Arte Algorithm 
 
 
 
