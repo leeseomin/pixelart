@@ -13,6 +13,6 @@ LEE SEOMIN
 
 
 
-### Arte Algorithm
+### Arte Algorithms
 
 https://github.com/leeseomin/
