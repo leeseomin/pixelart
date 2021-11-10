@@ -27,3 +27,10 @@ LEE SEOMIN
 ### Arte Algorithms
 
 https://github.com/leeseomin/
+
+
+### more on NFT marketplace 
+
+https://rarible.com/leeseomin
+
+https://async.art/u/leeseomin/collection
