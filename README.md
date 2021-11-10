@@ -29,7 +29,7 @@ LEE SEOMIN
 https://github.com/leeseomin/
 
 
-### more on NFT marketplace 
+### More on NFT marketplace 
 
 https://rarible.com/leeseomin
 
