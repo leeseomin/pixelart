@@ -13,6 +13,10 @@
 ### At a certain cafe
 
  <img src="https://github.com/leeseomin/pixelart/blob/main/IMG_3273.jpeg" width="2000">
+ 
+###  Road  
+ 
+  <img src="https://github.com/leeseomin/pixelart/blob/main/IMG_3290.jpg" width="2000">
 
 ###  Author
 
