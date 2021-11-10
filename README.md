@@ -10,6 +10,9 @@
 
  <img src="https://github.com/leeseomin/pixelart/blob/main/35kcordoba_can.png" width="2000">
 
+### At a certain cafe
+
+ <img src="https://github.com/leeseomin/pixelart/blob/main/IMG_3273.jpeg" width="2000">
 
 ###  Author
 
