@@ -3,6 +3,8 @@
 ###  Lofoten in Norway
  <img src="https://github.com/leeseomin/pixelart/blob/main/Lofoten.png" width="2000">
 
+### Any Scream
+ <img src="https://github.com/leeseomin/pixelart/blob/main/sc1.png" width="2500">
 
 ###  Vietnamese restaurant
 
