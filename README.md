@@ -1,8 +1,10 @@
 # pixelart created by Arte Algorithm 
 
+###  Lofoten in Norway
+ <img src="https://github.com/leeseomin/pixelart/blob/main/Lofoten.png" width="2000">
 
 
-### Vietnamese restaurant
+###  Vietnamese restaurant
 
  <img src="https://github.com/leeseomin/pixelart/blob/main/vistro3.png" width="2000">
 
