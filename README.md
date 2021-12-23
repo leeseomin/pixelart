@@ -24,9 +24,9 @@
  
 <br/><br/>
  
- ### ight on the cafe
+ ### Light on the cafe
 
- <img src="https://github.com/leeseomin/pixelart/blob/main/IMG_3273.jpeg" width="2000">
+ <img src="https://github.com/leeseomin/pixelart/blob/main/art/cafe_light3.png" width="2000">
  
 
 <br/><br/> 
