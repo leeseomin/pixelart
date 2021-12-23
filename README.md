@@ -1,4 +1,4 @@
-# pixelart created by Arte Algorithm 
+# Artwork created by Arte Algorithm 
 
 ###  Lofoten in Norway
  <img src="https://github.com/leeseomin/pixelart/blob/main/Lofoten.png" width="2000">
