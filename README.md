@@ -34,10 +34,7 @@ https://async.art/art/master/0xb6dae651468e9593e4581705a09c10a76ac1e0c8-4211
  
 <br/><br/>
  
- ### Light in the cafe
 
- <img src="https://github.com/leeseomin/pixelart/blob/main/art/cafe_light7.png" width="2000">
- 
 
 <br/><br/> 
 ###  Road  
@@ -57,6 +54,8 @@ https://github.com/leeseomin/
 
 ### More on NFT marketplace 
 
-https://rarible.com/leeseomin
 
 https://async.art/u/leeseomin/collection
+
+
+https://rarible.com/leeseomin
