@@ -4,6 +4,15 @@
  <img src="https://github.com/leeseomin/pixelart/blob/main/Lofoten.png" width="2000">
 
 <br/><br/>
+
+
+### Face 7
+
+ <img src="https://github.com/leeseomin/pixelart/blob/main/art/face7.png" width="2000">
+
+<br/><br/>
+
+
 ### Any Scream
  <img src="https://github.com/leeseomin/pixelart/blob/main/sc1.png" width="2500">
 
@@ -13,6 +22,7 @@
  <img src="https://github.com/leeseomin/pixelart/blob/main/vistro3.png" width="2000">
 
 <br/><br/>
+
 ###  Mosque-Cathedral of Córdoba
 
  <img src="https://github.com/leeseomin/pixelart/blob/main/35kcordoba_can.png" width="2000">
